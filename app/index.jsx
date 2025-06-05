@@ -16,6 +16,7 @@ const Home = () => {
         Reading List App
       </Text>
       <Link href='/about' style={styles.link}>About Page</Link>
+      <Link href='/contact' style={styles.link}>Contact Page</Link>
       {/** */}
       {/* <View style={styles.card}>
         <Text>Hello, This is a card</Text>
