@@ -1,4 +1,5 @@
 //Represent the home page component for the application
+// The addition of expo router allows us to add extra screens to our applications
 import { StyleSheet, Text, View, Image } from 'react-native'
 import Logo from '../assets/images/logo_light.png'
 import React from 'react'
